@@ -1,0 +1,17 @@
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\bin\Debug\netstandard2.0\DataService.deps.json
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\bin\Debug\netstandard2.0\DataService.dll
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\bin\Debug\netstandard2.0\DataService.pdb
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\obj\Debug\netstandard2.0\DataService.csproj.CoreCompileInputs.cache
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\obj\Debug\netstandard2.0\DataService.AssemblyInfoInputs.cache
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\obj\Debug\netstandard2.0\DataService.AssemblyInfo.cs
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\obj\Debug\netstandard2.0\DataService.dll
+D:\Center\Project\ticarix\TicarixCoreApi\DataService\obj\Debug\netstandard2.0\DataService.pdb
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\bin\Debug\netstandard2.0\DataService.deps.json
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\bin\Debug\netstandard2.0\DataService.dll
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\bin\Debug\netstandard2.0\DataService.pdb
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\obj\Debug\netstandard2.0\DataService.csprojAssemblyReference.cache
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\obj\Debug\netstandard2.0\DataService.csproj.CoreCompileInputs.cache
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\obj\Debug\netstandard2.0\DataService.AssemblyInfoInputs.cache
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\obj\Debug\netstandard2.0\DataService.AssemblyInfo.cs
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\obj\Debug\netstandard2.0\DataService.dll
+D:\Center\Project\AkilliProgram\AkilliProgramApi\DataService\obj\Debug\netstandard2.0\DataService.pdb
